@@ -4,10 +4,6 @@ import nl.tudelft.jpacman.level.Player;
 import nl.tudelft.jpacman.npc.Ghost;
 import nl.tudelft.jpacman.points.PointCalculator;
 
-import java.util.List;
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.lang.RuntimeException;
 
 /**
  * A brand new points calculator, that does more than
